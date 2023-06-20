@@ -5,6 +5,7 @@ Automatically fill the hours in iwom taking into account:
 2. Fill as holidays if it is noted in the confluence Santander uk calendar: https://confluence.almuk.santanderuk.corp/calendar/calendarPage.action?spaceKey=APIMANAGERUK&calendarId=49f2f1f0-240e-416a-8034-7b3b25c69163
 3. Covers from the beginning of the current month to the current day
 4. If it's Friday fill reduced time
+5. Fill holidays based on Santander UK Confluence calendar
 
 ## Schedule:
 
@@ -17,8 +18,6 @@ Friday -> 09:00 - 16:00
 * Include previous months
 
 * Calculate reduced working hours based on months
-
-* get holidays
 
 
 # Dependencies
